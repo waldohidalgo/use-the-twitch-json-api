@@ -18,6 +18,7 @@ export default function Home() {
             href="https://twitch-proxy.freecodecamp.rocks/"
             target="_blank"
             rel="noopener noreferrer"
+            className="text-blue-700 font-bold"
           >
             Free Code Camp Twitch API Pass-through
           </a>
